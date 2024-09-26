@@ -18,6 +18,8 @@ The system uses the **TMDB 5000 Movie Dataset**, which includes:
 - Movie details (title, genres, overview, cast, crew, etc.)
 - Metadata essential for similarity calculation
 
+- Dataset can be found on Kaggle: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 
 ## 🎯 Objective
 The objective of this project is to recommend movies to users based on the similarity between movie overviews, genres, cast, and crew using content-based filtering techniques.
